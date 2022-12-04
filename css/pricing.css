@@ -36,7 +36,7 @@
 .pricing__action {
 	color: inherit;
 	border: none;
-	background: none;
+	background-image: linear-gradient(to bottom right, #070020, #18055e, #0d003b);
 	width: 100%;
 }
 
@@ -161,8 +161,9 @@
 
 .pricing--rabten .pricing__action:hover,
 .pricing--rabten .pricing__action:focus {
-	background-image: linear-gradient(to bottom right, #070020, #18055e, #0d003b)
+	background-image: linear-gradient(to bottom right, #ae8625, #f7ef8a, #d2ac47, #edc967);
 	color: #fff;
+	border: 1px solid #fff;
 }
 
 .btn-sponsor {width: 50%;
@@ -184,6 +185,7 @@
 .btn-sponsor:hover,
 .btn-sponsor:focus {
 	background-color: #e09600;
+	background-image: linear-gradient(to bottom right, #ae8625, #f7ef8a, #d2ac47, #edc967);
 	color: #fff;
 }
 
