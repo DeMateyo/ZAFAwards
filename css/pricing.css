@@ -161,7 +161,7 @@
 
 .pricing--rabten .pricing__action:hover,
 .pricing--rabten .pricing__action:focus {
-	background-color: #010953;
+	background-image: linear-gradient(to bottom right, #070020, #18055e, #0d003b)
 	color: #fff;
 }
 
@@ -173,7 +173,7 @@
 	margin-top: auto;
 	padding: 1.4em 1em;
 	color: #fff;
-	background-color: #ffaa00;
+	background-image: linear-gradient(to bottom right, #070020, #18055e, #0d003b)
 	border-radius: 5px;
 	border: 1px solid #ffaa00;
 	/*background: #2D6CDF;*/
